@@ -41,6 +41,11 @@ namespace BlocDeNotas
         }
         #endregion
 
+
+        List<string> listaNotas = new List<string>();
+        
+
+
         #region Botones de Archivo
         private void newFileToolStripMenuItem_Click(object sender, EventArgs e)
         {
